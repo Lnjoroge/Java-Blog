@@ -1,8 +1,0 @@
-# Gitignore
-.classpath
-.project
-bin/
-/SimpleBlog.iml
-/.idea/
-/target/
-/blog.iml
